@@ -30,7 +30,6 @@
 
 <br/>
 <br/>
-----
 <img align="left" alt="VrajKD's Github Stats" src="https://github-readme-stats.vercel.app/api?username=VrajKD&show_icons=true&theme=vue" />
 
 [website]: https://vrajkd.me
