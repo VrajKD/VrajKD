@@ -1,6 +1,6 @@
 ### Hi there, I'm Vraj Dugar 👋
 
-## I'm a budding 20 year-old Developer!
+## I'm a budding 20 year-old Front End Developer!
 
 ### Connect with me:
 
