@@ -30,8 +30,6 @@
 <img align="left" alt="GraphQL" width="26px" src="https://cdn.simpleicons.org/graphql/black/whitesmoke" />
 
 <br/>
-<br/>
-<img align="left" alt="VrajKD's Github Stats" src="https://github-readme-stats.vercel.app/api?username=VrajKD&show_icons=true&theme=transparent" />
 
 [website]: https://vrajkd.me
 [twitter]: https://twitter.com/vrajdugar
