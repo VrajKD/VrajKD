@@ -32,6 +32,6 @@
 <br/>
 
 [website]: https://vrajkd.me
-[twitter]: https://twitter.com/vrajdugar
+[x]: https://x.com/vrajdugar
 [instagram]: https://instagram.com/vrajdugar
 [linkedin]: https://linkedin.com/in/vrajdugar
