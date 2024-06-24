@@ -4,7 +4,7 @@
 
 ### Connect with me:
 
-[<img align="left" alt="Vraj Dugar | Twitter" width="22px" src="https://cdn.simpleicons.org/twitter/black/whitesmoke" />][twitter]
+[<img align="left" alt="Vraj Dugar | X" width="22px" src="https://cdn.simpleicons.org/x/black/whitesmoke" />][twitter]
 [<img align="left" alt="Vraj Dugar | LinkedIn" width="22px" src="https://cdn.simpleicons.org/linkedin/black/whitesmoke" />][linkedin]
 [<img align="left" alt="Vraj Dugar | Instagram" width="22px" src="https://cdn.simpleicons.org/instagram/black/whitesmoke" />][instagram]
 
